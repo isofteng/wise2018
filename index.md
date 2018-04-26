@@ -25,7 +25,7 @@ The workshop is open to the public to register (please use the [ESEC/FSE 2018 re
 
 #### Organizing Committee
 
-- [Tao Xie](http://taoxie.cs.illinois.edu/) (University of Illinois Urbana-Champaign, USA) (main contact) **[Openning Slides](wise17-openning.pdf)**
+- [Tao Xie](http://taoxie.cs.illinois.edu/) (University of Illinois Urbana-Champaign, USA) (main contact) 
 - [Qianxiang Wang](http://sei.pku.edu.cn/~wqx/) (Huawei, China)
 - More organizer(s) to be confirmed
  
