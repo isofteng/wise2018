@@ -9,6 +9,8 @@ The International Workshop on Intelligent Software Engineering (WISE 2017), co-l
 
 Some example questions to be explored by the workshop are the following: how can AI improve the efficiency of software development? How can AI reduce the maintenance cost of software services? Can AI shift the software development model? Can AI even fully overtake coding tasks?
 
+The workshop program will consist of a number of invited talks given by prominent researchers from academia and industry along with one or two panels for discussing future roadmap and challenges in intelligent software engineering.
+
 WISE 2018 is the second edition of the workshop. See [here](https://isofteng.github.io/wise2017/) for WISE 2017 co-located with ASE 2017.
 
 #### Date
